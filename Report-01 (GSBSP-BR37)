@@ -1,0 +1,16 @@
+Theme: Bakery/Restaurant
+
+Tech Stack used till now: HTML, CSS, BootStrap
+
+The website will be responsive.
+
+Till now I've worked on exploring the color schemes, fonts, images etc to be used in the project. I've tried a bit wireframing to get an idea, how to proceed with the coding ahead.
+
+I'm done with navbar, landing/home page (partially) & will start working on About section very soon.
+
+I'll be using photos which are sourced from Unsplash.com. Also, I may use the photos clicked by me.
+
+The image I've used from Unsplash are of high quality & due to that the page is taking a bit longer to load. I'll try to reduce the file size as much as possible.
+
+I'll be using bootstrap to greater extent which includes creating navbar, making website responsive etc.
+
